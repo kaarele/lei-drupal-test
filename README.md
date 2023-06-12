@@ -1,6 +1,6 @@
-# LEI Register Druapl Test Assignment #
+# LEI Register Drupal Test Assignment #
 
-## Assignment goals ##
+## Assignment Goals ##
 
 1. Get a sense of how it would be to work together by communicating and choosing different ways to approach tasks.
 2. Get to know the level of familiarity of different aspects of working with Drupal and PHP.
@@ -31,7 +31,7 @@ OR in Windows WSL you can use the Explorer or your code editor to open the follo
 as you need for the purpose of this test assignment.
 
 
-## Assignment tasks ##
+## Assignment Tasks ##
 
 1. Create a new content type named **application**.
 2. The content type "title" should be renamed to **Company name**.
@@ -61,7 +61,7 @@ as you need for the purpose of this test assignment.
     * 6.5. A link to fetch the application LEI code and other data from the GLEIF API for the specified application (step 5.1).
 
 
-## LEI Codes for testing ##
+## LEI Codes For Testing ##
 * Lapsed LEI: https://search.gleif.org/#/record/549300ELERENIOHRKO73
 * Active LEI: https://search.gleif.org/#/record/485100MX4O4LQTS45635
 * Retired LEI: https://search.gleif.org/#/record/984500BA0AE5U0936B12
