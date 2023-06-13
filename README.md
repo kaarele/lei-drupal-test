@@ -56,7 +56,7 @@ as you need for the purpose of this test assignment.
 6. Use whichever method you prefer to create a viewable listing of the applications. The listing should show:
     * 6.1. Application **company name** (title)
     * 6.2. **LEI code**
-    * 6.3. **LEI status**, which should be colored green if "ACTIVE", red if "LAPSED" or yellow otherwise. (other detailed styling is not important).
+    * 6.3. **LEI status**, which should be colored green if "ISSUED", red if "LAPSED" or yellow otherwise. (other detailed styling is not important).
     * 6.4. **Next renewal date**
     * 6.5. A link to fetch the application LEI code and other data from the GLEIF API for the specified application (step 5.1).
 
