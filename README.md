@@ -69,5 +69,5 @@ All of the field and code updates have to be stored in either an .install file o
 
 ## LEI Codes For Testing ##
 * Lapsed LEI: https://search.gleif.org/#/record/549300ELERENIOHRKO73
-* Active LEI: https://search.gleif.org/#/record/485100MX4O4LQTS45635
+* Issued LEI: https://search.gleif.org/#/record/485100MX4O4LQTS45635
 * Retired LEI: https://search.gleif.org/#/record/984500BA0AE5U0936B12
