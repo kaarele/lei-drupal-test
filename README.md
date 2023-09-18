@@ -37,7 +37,7 @@ as you need for the purpose of this test assignment.
 
 ## Assignment Tasks ##
 
-All of the field and code updates have to be stored in either an .install file or as a configuration file for Drupal, so that the fields and view could be added to another Drupal environment using only the code that you write. You need to write any instructions about the steps needed to take to actually deploy the code to another Drupal environment. The specific method is up to you. The finished code can be pushed to any public git repository or if needed, sent to us via a .zip file. The codebase can contain either the whole Drupal installation or only the custom module files that are needed for the following tasks.
+All of the field and code updates have to be stored in either an .install file or as a configuration file for Drupal or whatever method you prefer, so that the fields and view could be added to another Drupal environment using only the code that you write. You need to write any instructions about the steps needed to take to actually deploy the code to another Drupal environment. The specific method is up to you. The finished code can be pushed to any public git repository or if needed, sent to us via a .zip file. The codebase can contain either the whole Drupal installation or only the custom module files that are needed for the following tasks.
 
 1. Create a new content type named **application**.
 2. The content type "title" should be renamed to **Company name**.
