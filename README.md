@@ -7,7 +7,11 @@
 3. To see the code quality vs focus on completing as much sub-tasks as possible in the timeframe.
 4. Front-end polish and styling will be completely ignored.
 
-## Project Setup ##
+## Project Setup (Optional) ##
+
+Instead of following these steps you could install a Drupal environment locally in whichever way you prefer.
+The suggested method below with Docker might not work perfectly with your computer.
+Use whatever method is simpler and faster for you, because it is not a part of the task itself - only the finished code is needed.
 
 1. Download and install Docker (if not already installed) https://www.docker.com
 2. For windows, you would probably also need to install Windows Subsystem for Linux "WSL"
@@ -32,6 +36,8 @@ as you need for the purpose of this test assignment.
 
 
 ## Assignment Tasks ##
+
+All of the field and code updates have to be stored in either an .install file or as a configuration file for Drupal, so that the fields and view could be added to another Drupal environment using only the code that you write. You need to write any instructions about the steps needed to take to actually deploy the code to another Drupal environment. The specific method is up to you. The finished code can be pushed to any public git repository or if needed, sent to us via a .zip file. The codebase can contain either the whole Drupal installation or only the custom module files that are needed for the following tasks.
 
 1. Create a new content type named **application**.
 2. The content type "title" should be renamed to **Company name**.
